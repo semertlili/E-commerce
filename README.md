@@ -30,7 +30,7 @@ A modern e-commerce frontend application built with Angular 19, inspired by Amaz
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/enzocandido/angular-ecommerce.git
+   git clone /https://github.com/semertlili/E-commerce
    cd amazon-frontend
    ```
 
